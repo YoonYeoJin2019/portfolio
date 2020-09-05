@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+/************* Common *************/
+
+@font-face {
+    font-family: 'MaplestoryLight';
+    src: url('../webfonts/MaplestoryBold.ttf') format('truetype');
+} 
+
+.ffonn{
+    font-family: 'MaplestoryLight';
+    font-style: normal; 
+    font-weight: normal;
+    font-size: 2.5rem;font-weight:bold;letter-spacing: -2px;line-height:1.1;
+}
+
+body{
+    font-family: 'MaplestoryLight';
+    font-style: normal; 
+    font-weight: normal;  
+}
+
+.myimg{
+    width: 70px;
+    height: 70px;
+    border-radius: 20%;
+    background-color: white;
+    position: relative;
+    top: 5px;
+    }
